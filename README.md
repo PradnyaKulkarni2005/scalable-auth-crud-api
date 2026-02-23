@@ -359,5 +359,3 @@ backend/
 3. Push to the branch (`git push origin feature/AmazingFeature`)
 4. Open a Pull Request
 
-##   s c a l a b l e - a u t h - c r u d - a p i  
- 
